@@ -1,0 +1,15 @@
+{
+  "ownerNumber": "6288220195739@s.whatsapp.net",
+  "botName": "Ara Bot Store",
+  "ownerName": "DS Hosting",
+  "footer": "*2022 © ARABOT*",
+  "apikey": "APIKEY",
+  "pathThumb": "./media/logo.jpg",
+  "sessionName": "session",
+  "limitCount": 30,
+  "gamewaktu": 60,
+  "gcount": {
+    "prem": 50,
+    "user": 20
+  }
+}
